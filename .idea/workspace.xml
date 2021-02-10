@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="512bb85a-ee8f-4424-91c5-64516355c871" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oFLax4wZIxF1pVQU2qvSVqR7gM" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="512bb85a-ee8f-4424-91c5-64516355c871" name="Default Changelist" comment="" />
+      <created>1612877459347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612877459347</updated>
+      <workItem from="1612877460387" duration="8576000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="173" key="FileChooserDialogImpl" timestamp="1612887587979">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="580" y="173" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1612887587979" />
+    <state width="1453" height="223" key="GridCell.Tab.0.bottom" timestamp="1612889467907">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1453" height="223" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1612889467907" />
+    <state width="1453" height="223" key="GridCell.Tab.0.center" timestamp="1612889467906">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1453" height="223" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1612889467906" />
+    <state width="1453" height="223" key="GridCell.Tab.0.left" timestamp="1612889467906">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1453" height="223" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1612889467906" />
+    <state width="1453" height="223" key="GridCell.Tab.0.right" timestamp="1612889467906">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1453" height="223" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1612889467906" />
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1612882355265">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1612882355265" />
+  </component>
+</project>
